@@ -11,7 +11,8 @@ Prefect course template course
 # install uv
 make uv
 
-# create venv
-make sync
+# activate the virtual environment
+soure .venv/bin/activate
 ```
+
 You are good to go.
